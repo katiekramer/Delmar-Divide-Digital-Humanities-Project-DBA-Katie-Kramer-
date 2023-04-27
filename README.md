@@ -1,4 +1,4 @@
-# Delmar-Divide-Digital-Humanities-Project-DBA-Katie-Kramer-
+# Delmar Divide Digital Humanities Project DBA [Katie Kramer]
 
 Hello! My name is Katie Kramer, and I have put together this project for a Digital Humanities course at Washington University in St. Louis. This project is a searchable data set containing a vast array of reliable resources for research, study, and analysis of the Delmar Divide in St. Louis, Missouri. The Delmar Divide is a term used to describe the stark racial and economic dividing line between the predominantly white neighborhoods to the south of Delmar Boulevard and the predominantly African-American neighborhoods to the north of Delmar Boulevard. This disparity is one of the clearest and most alarming examples of racial and economic segregation in the United States. 
 
